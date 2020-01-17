@@ -1,2 +1,2 @@
 # Pneumonia-prediction-using-transfer-learning
-used pretrained MobileNet model to predict pneumonia using chest Xrays
+Used pretrained MobileNet model to predict pneumonia using chest Xrays
